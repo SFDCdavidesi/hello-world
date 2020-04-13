@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 dherrero  110297153  160 Apr 13 17:19 .
+drwxr-xr-x   3 dherrero  110297153   96 Apr 13 17:18 ..
+drwxr-xr-x  13 dherrero  110297153  416 Apr 13 17:19 .git
+-rw-r--r--   1 dherrero  110297153  212 Apr 13 17:18 README.md
+-rw-r--r--   1 dherrero  110297153    0 Apr 13 17:19 listado.txt
